@@ -13,7 +13,7 @@ Challenge 3: Disney (Level: Hard)
 Problem: This hard-level problem, inspired by Disney, was a test of advanced Python skills. It helped Disney Parks better understand guest spending patterns and tailor personalized marketing strategies to different visitor segments, driving more targeted and effective campaigns. The notebook contains my thought process and the final optimized code.
 
 Challenge 4: Google (Level: Easy)
-Problem: This Google-themed challenge is a great way to reinforce basic Python knowledge. My solution tackles the problem of [briefly describe the task, e.g., "data cleaning and transformation," "filtering a list based on a condition," or "creating a function to format data"].
+Problem: This Google-themed challenge is a great way to reinforce basic Python knowledge. My solution tackles how to sort the average interaction times to identify the optimal number of search results per page
 
 Challenge 5: Nintendo (Level: Hard)
 Problem: A challenging problem based on Nintendo's data. This notebook addresses [briefly describe the task, e.g., "a data analysis task involving time series data," "a complex problem with multiple constraints," or "an advanced algorithm challenge"]. The solution demonstrates a robust approach to solving difficult problems.
