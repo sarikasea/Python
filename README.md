@@ -10,7 +10,7 @@ Challenge 2: Amazon (Level: Medium)
 Problem: help the Amazon Sponsored Advertising team understand which electronics-related categories are performing well and by how much they outperform the average. This insight is crucial for optimizing targeted advertising strategies to boost engagement.
 
 Challenge 3: Disney (Level: Hard)
-Problem: This hard-level problem, inspired by Disney, was a test of advanced Python skills. It required [briefly describe the task, e.g., "a recursive function," "optimizing for performance with large datasets," or "implementing a more complex data structure"]. The notebook contains my thought process and the final optimized code.
+Problem: This hard-level problem, inspired by Disney, was a test of advanced Python skills. It helped Disney Parks better understand guest spending patterns and tailor personalized marketing strategies to different visitor segments, driving more targeted and effective campaigns. The notebook contains my thought process and the final optimized code.
 
 Challenge 4: Google (Level: Easy)
 Problem: This Google-themed challenge is a great way to reinforce basic Python knowledge. My solution tackles the problem of [briefly describe the task, e.g., "data cleaning and transformation," "filtering a list based on a condition," or "creating a function to format data"].
